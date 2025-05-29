@@ -1,0 +1,91 @@
+Model,Sıra,Index,Skor,Metin
+TF-IDF (Lemmatized),1,998,1.0000,range() fonksiyonu ne işe yarar?
+TF-IDF (Lemmatized),2,34,1.0000,range() fonksiyonu ne işe yarar?
+TF-IDF (Lemmatized),3,684,1.0000,range() fonksiyonu ne işe yarar?
+TF-IDF (Lemmatized),4,688,1.0000,range() fonksiyonu ne işe yarar?
+TF-IDF (Lemmatized),5,694,1.0000,range() fonksiyonu ne işe yarar?
+TF-IDF (Stemmed),1,412,0.7408,range() fonksiyonu ne işe yarar?
+TF-IDF (Stemmed),2,484,0.7408,range() fonksiyonu ne işe yarar?
+TF-IDF (Stemmed),3,176,0.7408,range() fonksiyonu ne işe yarar?
+TF-IDF (Stemmed),4,648,0.7408,range() fonksiyonu ne işe yarar?
+TF-IDF (Stemmed),5,906,0.7408,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim100,1,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim100,2,432,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim100,3,34,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim100,4,476,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim100,5,998,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim300,1,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim300,2,648,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim300,3,286,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim300,4,138,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win2 Dim300,5,500,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim100,1,484,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim100,2,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim100,3,922,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim100,4,34,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim100,5,476,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim300,1,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim300,2,476,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim300,3,286,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim300,4,138,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized CBOW Win4 Dim300,5,500,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim100,1,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim100,2,432,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim100,3,684,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim100,4,770,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim100,5,412,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim300,1,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim300,2,476,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim300,3,286,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim300,4,138,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win2 Dim300,5,500,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim100,1,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim100,2,570,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim100,3,108,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim100,4,438,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim100,5,684,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim300,1,0,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim300,2,648,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim300,3,286,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim300,4,138,1.0000,range() fonksiyonu ne işe yarar?
+Lemmatized Skipgram Win4 Dim300,5,500,1.0000,range() fonksiyonu ne işe yarar?
+Stemmed CBOW Win2 Dim100,1,268,0.5465,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim100,2,914,0.5465,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim100,3,1010,0.5465,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim100,4,776,0.5465,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim100,5,796,0.5465,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim300,1,268,0.6149,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim300,2,44,0.6149,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim300,3,914,0.6149,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim300,4,796,0.6149,LINQ ne işe yarar?
+Stemmed CBOW Win2 Dim300,5,766,0.6149,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim100,1,268,0.5483,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim100,2,542,0.5483,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim100,3,796,0.5483,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim100,4,766,0.5483,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim100,5,404,0.5483,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim300,1,44,0.6168,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim300,2,914,0.6168,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim300,3,268,0.6168,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim300,4,796,0.6168,LINQ ne işe yarar?
+Stemmed CBOW Win4 Dim300,5,766,0.6168,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim100,1,796,0.5545,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim100,2,990,0.5545,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim100,3,604,0.5545,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim100,4,404,0.5545,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim100,5,44,0.5545,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim300,1,268,0.6207,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim300,2,44,0.6207,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim300,3,914,0.6207,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim300,4,796,0.6207,LINQ ne işe yarar?
+Stemmed Skipgram Win2 Dim300,5,766,0.6207,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim100,1,950,0.5546,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim100,2,934,0.5546,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim100,3,682,0.5546,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim100,4,972,0.5546,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim100,5,386,0.5546,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim300,1,44,0.6219,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim300,2,914,0.6219,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim300,3,268,0.6219,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim300,4,796,0.6219,LINQ ne işe yarar?
+Stemmed Skipgram Win4 Dim300,5,766,0.6219,LINQ ne işe yarar?
